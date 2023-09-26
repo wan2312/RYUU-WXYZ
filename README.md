@@ -8,20 +8,25 @@
 
 ## Connect With Me
 - [klik ini](https://wa.me/6282219340480)
+- [Subscribe](https://youtube.com/@ryuu_wxyz?feature=shared)
 
 ## Bugs and Tester
 * Jika kamu menemukan bug atau error
-* Info Lebih Lanjut, Chat Dev ryuu
+* Info Lebih Lanjut, Chat Ryuu
 
 # Penting
 * npm i ytdl-core fs (for play command)
 * npm i wa-sticker-formatter (for sticker command)
 * npm i (for module comand)
 
+# Run menggunakan pm2
+* npx pm2 start juna.js
+* npx pm2 monit
+
 ## termux install
  command for termux
 
- https://telegra.ph/TUTORIAL-RUN-BELUM-ADA-node-modules-09-25
+- [command](https://telegra.ph/TUTORIAL-RUN-BELUM-ADA-node-modules-09-25)
 
 ## Donate
 - [Sociabuzz](https://sociabuzz.com/anim_lovers00)
